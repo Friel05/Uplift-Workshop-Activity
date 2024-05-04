@@ -7,7 +7,7 @@
 body {
   font-family: "Mali", cursive;
   height: 100vh;
-  background-image: radial-gradient(
+  background-image: linear-gradient(
     rgb(123, 0, 200),
     rgb(50, 0, 225),
     rgb(235, 0, 36)
